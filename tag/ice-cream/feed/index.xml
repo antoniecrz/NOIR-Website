@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ice cream &#8211; Café Noir</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Experience New Heights of Luxury through Coffee &#38; Sweets</description>
+	<lastBuildDate>Sun, 06 Aug 2023 13:54:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/12/cropped-favicon_noirlogo-sq-32x32.png</url>
+	<title>ice cream &#8211; Café Noir</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Artisanal Ice Cream by NOIR: Coming Soon</title>
+		<link>./../../../artisanal-ice-cream/index.html</link>
+		
+		<dc:creator><![CDATA[Antonie Cruz]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 13:26:40 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[2023]]></category>
+		<category><![CDATA[artisanal]]></category>
+		<category><![CDATA[best]]></category>
+		<category><![CDATA[best coffee house]]></category>
+		<category><![CDATA[cafe]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[coffee house]]></category>
+		<category><![CDATA[doha]]></category>
+		<category><![CDATA[hazm]]></category>
+		<category><![CDATA[ice cream]]></category>
+		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[luxury]]></category>
+		<category><![CDATA[magazine]]></category>
+		<category><![CDATA[noir]]></category>
+		<category><![CDATA[qatar]]></category>
+		<category><![CDATA[summer]]></category>
+		<category><![CDATA[west walk]]></category>
+		<category><![CDATA[westwalk]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1284</guid>
+
+					<description><![CDATA[Artisanal Ice Cream by NOIR Coming Soon! Get ready to embark on a journey of flavor that will redefine your ice cream expectations. Café Noir is thrilled to announce the upcoming launch of Artisanal Ice Cream by NOIR. Our culinary artisans have meticulously crafted a symphony of flavors designed to delight your senses and transport [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Artisanal Ice Cream by NOIR Coming Soon!</p>
+
+
+
+<p>Get ready to embark on a journey of flavor that will redefine your ice cream expectations. Café Noir is thrilled to announce the upcoming launch of Artisanal Ice Cream by NOIR. Our culinary artisans have meticulously crafted a symphony of flavors designed to delight your senses and transport you to a realm of exquisite taste. From classic favorites to innovative creations, each scoop is a masterpiece in itself. Stay tuned for this exciting revelation that will transform your dessert experience. Take your palate to new heights with NOIR&#8217;s Artisanal Ice Cream!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

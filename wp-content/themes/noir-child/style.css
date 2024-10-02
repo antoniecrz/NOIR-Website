@@ -1,0 +1,134 @@
+/*
+Theme Name: noir Child
+Theme URI: https://zidex.modeltheme.com/
+Template: noir
+Author: ModelTheme
+Author URI: http://modeltheme.com/
+Description: Industrial & Factory WordPress Theme
+Version: 1.0
+Text Domain: noir
+Tags: custom-header, custom-menu, featured-images, post-formats, sticky-post
+
+*/
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+p {
+	color:#222222 !important;
+	font-size:17px !important;
+}
+#modeltheme-main-head {
+	background:#ffffff !important;
+	
+}
+#navbar .menu-item > a {
+	color:#000000 !important;
+	font-size: 14px;
+	padding: 10px 25px !important;
+}
+.navbar-header h1.logo {
+    margin: 15px 0 15px 0 !important;
+}
+.logo-infos {
+    border-bottom: solid 1px #cccccc !important;
+}
+#modeltheme-main-head {
+	border-bottom: solid 1px #cccccc !important;
+}
+header.header3 .logo img, .navbar-header .logo img {
+    max-width: 125px !important;
+	
+}
+.navbar {
+    min-height: 40px;
+}
+.txt1 p{
+	font-size:20px;
+	line-height:28px;
+	color:#222222;
+}
+.tittle1 h1{
+	font-size:42px !important;
+}
+.vc_btn3.vc_btn3-size-sm .vc_btn3-icon {
+    line-height: 20px !important;
+}
+.vc_general.vc_btn3:hover {
+	background:none !important;
+}
+.flexslider {
+	border:0px !important;
+	margin-bottom:0px !important;
+}
+.wpb_gallery .wpb_flexslider .flex-control-paging {
+	display:none;
+}
+.txt1_white p{
+	font-size:20px;
+	line-height:32px;
+	color:#ffffff !important;
+}
+.footer-div-parent {
+	display:none !important;
+}
+.footer-top .container {
+	width:100% !important;
+}
+#custom_html-3 {
+    padding-left: 0% !important;
+}
+.footer-row-2 .row {
+	width:1200px;
+	margin:0 auto;
+}
+.footer-row-2 {
+	padding-top: 55px !important;
+    padding-bottom: 25px !important;
+}
+footer .footer-top .widget-title {
+    font-size: 18px !important;
+    text-align: center !important;
+}
+.sidebar-1 {
+	text-align:center;
+	line-height:28px;
+}
+.sidebar-1  form.wpcf7-form {
+    background: none;
+    box-shadow: 0 0 25px rgba(0,0,0,0);
+    -webkit-box-shadow: 0 0 25px rgba(0,0,0,0);
+    -moz-box-shadow: 0 0 25px rgba(0,0,0,0);
+    -ms-box-shadow: 0 0 25px rgba(0,0,0,0);
+}
+.sidebar-1  input[type="email"] {
+   border: solid 1px #cccccc;
+   border-radius: 26px;
+   width: 320px;
+   text-align: center;
+   padding: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.sidebar-1 input.wpcf7-form-control.wpcf7-submit {
+	border: solid 1px #cccccc;
+   border-radius: 26px;
+	width: 120px;
+	color:#ffffff;
+}
+.sidebar-2 {
+	text-align:center;
+	line-height:28px;
+}
+.sidebar-3 {
+	text-align:center;
+	line-height:28px;
+}
+.sidebar-3 aside.widget {
+    margin-bottom: 10px;
+}
+.sidebar-3 .fa{
+	font-size:26px;
+}
+.testimonial-member-img {
+    display: none;
+}

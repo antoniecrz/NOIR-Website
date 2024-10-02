@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>noir &#8211; Café Noir</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Experience New Heights of Luxury through Coffee &#38; Sweets</description>
+	<lastBuildDate>Thu, 24 Nov 2022 09:34:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/12/cropped-favicon_noirlogo-sq-32x32.png</url>
+	<title>noir &#8211; Café Noir</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Noir Apple Tart</title>
+		<link>./../../../apple-tart/index.html</link>
+		
+		<dc:creator><![CDATA[noir]]></dc:creator>
+		<pubDate>Thu, 24 Nov 2022 07:55:53 +0000</pubDate>
+				<category><![CDATA[New Items]]></category>
+		<category><![CDATA[apple tart]]></category>
+		<category><![CDATA[cafe]]></category>
+		<category><![CDATA[doha]]></category>
+		<category><![CDATA[hazm]]></category>
+		<category><![CDATA[noir]]></category>
+		<category><![CDATA[qatar]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1058</guid>
+
+					<description><![CDATA[At our Café Noir, we take pride in not only serving delicious coffee, but also in providing mouthwatering desserts that contribute to a special dining experience. Our desserts are made fresh daily. Whether you&#8217;re looking for a quick snack or a delicious dessert to enjoy with your coffee, we&#8217;ve got you covered. Our latest addition [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>At our Café Noir, we take pride in not only serving delicious coffee, but also in providing mouthwatering desserts that contribute to a special dining experience. Our desserts are made fresh daily. Whether you&#8217;re looking for a quick snack or a delicious dessert to enjoy with your coffee, we&#8217;ve got you covered.</p>
+
+
+
+<p>Our latest addition to the menu is the traditional French Apple Tart, that combines the sweetness of apples with a crunchy pastry. It is perfect to end a meal, have it as a snack, or to celebrate any occasion. This dish is made by flaking apple slices and then placing them on top of a blonde, crispy crust made from flour, butter, and milk.</p>
+
+
+
+<p>The Apple Tart at Café Noir is every bit as Instagrammable as any other dessert that we make. Prepare your phones now so you can be the first customer to capture this delectable Apple Tart in a snap.</p>
+
+
+
+<p>We know that you will love it as much as we do!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
